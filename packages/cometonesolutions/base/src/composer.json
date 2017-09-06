@@ -1,10 +1,10 @@
 {
-    "name": "cometone/base",
+    "name": "howellmartinez/base",
     "description": "Base repos and services",
     "authors": [
         {
-            "name": "CometOne Solutions",
-            "email": "cometonesolutions@gmail.com"
+            "name": "Base",
+            "email": "howellmartinez@gmail.com"
         }
     ],
     "minimum-stability": "dev",
