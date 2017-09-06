@@ -1,0 +1,12 @@
+{
+    "name": "cometone/base",
+    "description": "Base repos and services",
+    "authors": [
+        {
+            "name": "CometOne Solutions",
+            "email": "cometonesolutions@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
